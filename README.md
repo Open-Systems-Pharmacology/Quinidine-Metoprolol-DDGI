@@ -2,7 +2,7 @@
 Modeling of published quinidine-metoprolol-DDGI studies for model evaluation
 
 ## Repository files
-Within this repository, we distribute a PK-Sim snapshot and a PK-Sim model file containing simulations of all published clinical studies used to evaluate the predictive performance of the quinidine model regarding quinidine-metoprolol-DDGIs, including the respective observed data digitized from literature reports. The applied metoprolol model has been published previously [1]. For further details and documentation please refer to [2].
+Within this repository, we distribute a PK-Sim snapshot containing simulations of all published clinical studies used to evaluate the predictive performance of the quinidine model regarding quinidine-metoprolol-DDGIs, including the respective observed data digitized from literature reports. The applied metoprolol model has been published previously [1]. For further details and documentation please refer to [2].
 
 
 ## Version information
